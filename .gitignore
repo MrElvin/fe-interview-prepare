@@ -1,0 +1,7 @@
+# built files
+dist/
+
+# local files
+node_modules/
+package-lock.json
+yarn.lock
